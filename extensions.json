@@ -1,0 +1,11 @@
+{
+    "extensions": [
+        {
+            "name": "WatchOnly Onchain wallet",
+            "description": "",
+            "url": "https://github.com/motorina0/watchonly/raw/main/releases/watchonly_0.3.zip",
+            "hash": "",
+            "html": ""
+        }
+    ]
+}
