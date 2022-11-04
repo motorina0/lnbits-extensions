@@ -13,163 +13,244 @@
             "id": "scrub",
             "name": "Scrub",
             "shortDescription": "Pass payments to LNURLp/LNaddress",
-            "icon": "send"
+            "icon": "send",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "satsdice",
             "name": "Sats Dice",
             "shortDescription": "LNURL Satoshi dice",
-            "icon": "casino"
+            "icon": "casino",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "tpos",
             "name": "TPoS",
             "shortDescription": "A shareable PoS terminal!",
-            "icon": "dialpad"
+            "icon": "dialpad",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "invoices",
             "name": "Invoices",
             "shortDescription": "Create invoices for your clients.",
-            "icon": "request_quote"
+            "icon": "request_quote",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "copilot",
             "name": "Streamer Copilot",
             "shortDescription": "Video tips/animations/webhooks",
-            "icon": "face"
+            "icon": "face",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "satspay",
             "name": "SatsPay Server",
             "shortDescription": "Create onchain and LN charges",
-            "icon": "payment"
+            "icon": "payment",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "lndhub",
             "name": "LndHub",
             "shortDescription": "Access lnbits from BlueWallet or Zeus",
-            "icon": "navigation"
+            "icon": "navigation",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "subdomains",
             "name": "Subdomains",
             "shortDescription": "Sell subdomains of your domain",
-            "icon": "domain"
+            "icon": "domain",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "tipjar",
             "name": "Tip Jar",
             "shortDescription": "Accept Bitcoin donations, with messages attached!",
-            "icon": "favorite"
+            "icon": "favorite",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "boltz",
             "name": "Boltz",
             "shortDescription": "Perform onchain/offchain swaps",
-            "icon": "swap_horiz"
+            "icon": "swap_horiz",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "offlineshop",
             "name": "OfflineShop",
             "shortDescription": "Receive payments for products offline!",
-            "icon": "nature_people"
+            "icon": "nature_people",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "hivemind",
             "name": "Hivemind",
             "shortDescription": "Make cheap talk expensive!",
-            "icon": "batch_prediction"
+            "icon": "batch_prediction",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "livestream",
             "name": "DJ Livestream",
             "shortDescription": "Sell tracks and split revenue (lnurl-pay)",
-            "icon": "speaker"
+            "icon": "speaker",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "discordbot",
             "name": "Discord Bot",
             "shortDescription": "Generate users and wallets",
-            "icon": "person_add"
+            "icon": "person_add",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "lnurlp",
             "name": "LNURLp",
             "shortDescription": "Make reusable LNURL pay links",
-            "icon": "receipt"
+            "icon": "receipt",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "lnurldevice",
             "name": "LNURLDevice",
             "shortDescription": "For offline LNURL devices",
-            "icon": "point_of_sale"
+            "icon": "point_of_sale",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "jukebox",
             "name": "Spotify Jukebox",
             "shortDescription": "Spotify jukebox middleware",
-            "icon": "radio"
+            "icon": "radio",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "streamalerts",
             "name": "Stream Alerts",
             "shortDescription": "Bitcoin donations in stream alerts",
-            "icon": "notifications_active"
+            "icon": "notifications_active",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "bleskomat",
             "name": "Bleskomat",
             "shortDescription": "Connect a Bleskomat ATM to an lnbits",
-            "icon": "money"
+            "icon": "money",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "usermanager",
             "name": "User Manager",
             "shortDescription": "Generate users and wallets",
-            "icon": "person_add"
+            "icon": "person_add",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "events",
             "name": "Events",
             "shortDescription": "Sell and register event tickets",
-            "icon": "local_activity"
+            "icon": "local_activity",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "withdraw",
             "name": "LNURLw",
             "shortDescription": "Make LNURL withdraw links",
-            "icon": "crop_free"
+            "icon": "crop_free",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "splitpayments",
             "name": "Split Payments",
             "shortDescription": "Split incoming payments across wallets",
-            "icon": "call_split"
+            "icon": "call_split",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "lnticket",
             "name": "Support Tickets",
             "shortDescription": "LN support ticket system",
-            "icon": "contact_support"
+            "icon": "contact_support",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "paywall",
             "name": "Paywall",
             "shortDescription": "Create paywalls for content",
-            "icon": "policy"
+            "icon": "policy",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "lnaddress",
             "name": "Lightning Address",
             "shortDescription": "Sell LN addresses for your domain",
-            "icon": "alternate_email"
+            "icon": "alternate_email",
+            "url": "",
+            "hash": "",
+            "html": ""
         },
         {
             "id": "boltcards",
             "name": "Bolt Cards",
             "shortDescription": "Self custody Bolt Cards with one time LNURLw",
-            "icon": "payment"
+            "icon": "payment",
+            "url": "",
+            "hash": "",
+            "html": ""
         }
     ]
 }
