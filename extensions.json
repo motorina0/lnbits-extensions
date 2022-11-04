@@ -7,7 +7,7 @@
             "icon": "extension",
             "url": "https://github.com/motorina0/watchonly/raw/d64956ec454afc4a860ec100a8b9b29c6b4f599f/releases/watchonly_0.3.zip",
             "hash": "",
-            "html": ""
+            "html": "https://raw.githubusercontent.com/motorina0/lnbits-extensions/main/extensions.json"
         },
         {
             "id": "scrub",
