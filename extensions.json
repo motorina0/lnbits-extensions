@@ -170,6 +170,6 @@
             "name": "Bolt Cards",
             "shortDescription": "Self custody Bolt Cards with one time LNURLw",
             "icon": "payment"
-        },
+        }
     ]
 }
