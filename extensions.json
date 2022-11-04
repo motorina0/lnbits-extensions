@@ -1,11 +1,175 @@
 {
     "extensions": [
         {
+            "id": "watchonly",
             "name": "WatchOnly Onchain wallet",
-            "description": "",
-            "url": "https://github.com/motorina0/watchonly/raw/main/releases/watchonly_0.3.zip",
+            "shortDescription": "uuu",
+            "icon": "extension",
+            "url": "https://github.com/motorina0/watchonly/raw/d64956ec454afc4a860ec100a8b9b29c6b4f599f/releases/watchonly_0.3.zip",
             "hash": "",
             "html": ""
-        }
+        },
+        {
+            "id": "scrub",
+            "name": "Scrub",
+            "shortDescription": "Pass payments to LNURLp/LNaddress",
+            "icon": "send"
+        },
+        {
+            "id": "satsdice",
+            "name": "Sats Dice",
+            "shortDescription": "LNURL Satoshi dice",
+            "icon": "casino"
+        },
+        {
+            "id": "tpos",
+            "name": "TPoS",
+            "shortDescription": "A shareable PoS terminal!",
+            "icon": "dialpad"
+        },
+        {
+            "id": "invoices",
+            "name": "Invoices",
+            "shortDescription": "Create invoices for your clients.",
+            "icon": "request_quote"
+        },
+        {
+            "id": "copilot",
+            "name": "Streamer Copilot",
+            "shortDescription": "Video tips/animations/webhooks",
+            "icon": "face"
+        },
+        {
+            "id": "satspay",
+            "name": "SatsPay Server",
+            "shortDescription": "Create onchain and LN charges",
+            "icon": "payment"
+        },
+        {
+            "id": "lndhub",
+            "name": "LndHub",
+            "shortDescription": "Access lnbits from BlueWallet or Zeus",
+            "icon": "navigation"
+        },
+        {
+            "id": "subdomains",
+            "name": "Subdomains",
+            "shortDescription": "Sell subdomains of your domain",
+            "icon": "domain"
+        },
+        {
+            "id": "tipjar",
+            "name": "Tip Jar",
+            "shortDescription": "Accept Bitcoin donations, with messages attached!",
+            "icon": "favorite"
+        },
+        {
+            "id": "boltz",
+            "name": "Boltz",
+            "shortDescription": "Perform onchain/offchain swaps",
+            "icon": "swap_horiz"
+        },
+        {
+            "id": "offlineshop",
+            "name": "OfflineShop",
+            "shortDescription": "Receive payments for products offline!",
+            "icon": "nature_people"
+        },
+        {
+            "id": "hivemind",
+            "name": "Hivemind",
+            "shortDescription": "Make cheap talk expensive!",
+            "icon": "batch_prediction"
+        },
+        {
+            "id": "livestream",
+            "name": "DJ Livestream",
+            "shortDescription": "Sell tracks and split revenue (lnurl-pay)",
+            "icon": "speaker"
+        },
+        {
+            "id": "discordbot",
+            "name": "Discord Bot",
+            "shortDescription": "Generate users and wallets",
+            "icon": "person_add"
+        },
+        {
+            "id": "lnurlp",
+            "name": "LNURLp",
+            "shortDescription": "Make reusable LNURL pay links",
+            "icon": "receipt"
+        },
+        {
+            "id": "lnurldevice",
+            "name": "LNURLDevice",
+            "shortDescription": "For offline LNURL devices",
+            "icon": "point_of_sale"
+        },
+        {
+            "id": "jukebox",
+            "name": "Spotify Jukebox",
+            "shortDescription": "Spotify jukebox middleware",
+            "icon": "radio"
+        },
+        {
+            "id": "streamalerts",
+            "name": "Stream Alerts",
+            "shortDescription": "Bitcoin donations in stream alerts",
+            "icon": "notifications_active"
+        },
+        {
+            "id": "bleskomat",
+            "name": "Bleskomat",
+            "shortDescription": "Connect a Bleskomat ATM to an lnbits",
+            "icon": "money"
+        },
+        {
+            "id": "usermanager",
+            "name": "User Manager",
+            "shortDescription": "Generate users and wallets",
+            "icon": "person_add"
+        },
+        {
+            "id": "events",
+            "name": "Events",
+            "shortDescription": "Sell and register event tickets",
+            "icon": "local_activity"
+        },
+        {
+            "id": "withdraw",
+            "name": "LNURLw",
+            "shortDescription": "Make LNURL withdraw links",
+            "icon": "crop_free"
+        },
+        {
+            "id": "splitpayments",
+            "name": "Split Payments",
+            "shortDescription": "Split incoming payments across wallets",
+            "icon": "call_split"
+        },
+        {
+            "id": "lnticket",
+            "name": "Support Tickets",
+            "shortDescription": "LN support ticket system",
+            "icon": "contact_support"
+        },
+        {
+            "id": "paywall",
+            "name": "Paywall",
+            "shortDescription": "Create paywalls for content",
+            "icon": "policy"
+        },
+        {
+            "id": "lnaddress",
+            "name": "Lightning Address",
+            "shortDescription": "Sell LN addresses for your domain",
+            "icon": "alternate_email"
+        },
+        {
+            "id": "boltcards",
+            "name": "Bolt Cards",
+            "shortDescription": "Self custody Bolt Cards with one time LNURLw",
+            "icon": "payment"
+        },
     ]
 }
