@@ -1,0 +1,13 @@
+{
+    "extensions": [
+        {
+            "id": "scheduledpayments",
+            "name": "Scheduled Payments",
+            "shortDescription": "Schedule recurring payments in the future.",
+            "icon": "schedule",
+            "archive": "",
+            "hash": "",
+            "presentation": ""
+        }
+    ]
+}
