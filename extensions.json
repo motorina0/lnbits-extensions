@@ -5,9 +5,8 @@
             "name": "WatchOnly Onchain wallet",
             "shortDescription": "Onchain watch only wallets",
             "icon": "extension",
-            "url": "https://github.com/motorina0/watchonly/raw/d64956ec454afc4a860ec100a8b9b29c6b4f599f/releases/watchonly_0.3.zip",
-            "hash": "",
-            "html": "https://raw.githubusercontent.com/motorina0/watchonly/main/presentation.html"
+            "archive": "https://github.com/motorina0/watchonly/raw/d64956ec454afc4a860ec100a8b9b29c6b4f599f/releases/watchonly_0.3.zip",
+            "hash": ""
         },
         {
             "id": "scrub",
@@ -15,8 +14,7 @@
             "shortDescription": "Pass payments to LNURLp/LNaddress",
             "icon": "send",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "satsdice",
@@ -24,8 +22,7 @@
             "shortDescription": "LNURL Satoshi dice",
             "icon": "casino",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "tpos",
@@ -33,8 +30,7 @@
             "shortDescription": "A shareable PoS terminal!",
             "icon": "dialpad",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "invoices",
@@ -42,8 +38,7 @@
             "shortDescription": "Create invoices for your clients.",
             "icon": "request_quote",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "copilot",
@@ -51,8 +46,7 @@
             "shortDescription": "Video tips/animations/webhooks",
             "icon": "face",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "satspay",
@@ -60,8 +54,7 @@
             "shortDescription": "Create onchain and LN charges",
             "icon": "payment",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "lndhub",
@@ -69,8 +62,7 @@
             "shortDescription": "Access lnbits from BlueWallet or Zeus",
             "icon": "navigation",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "subdomains",
@@ -78,8 +70,7 @@
             "shortDescription": "Sell subdomains of your domain",
             "icon": "domain",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "tipjar",
@@ -87,8 +78,7 @@
             "shortDescription": "Accept Bitcoin donations, with messages attached!",
             "icon": "favorite",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "boltz",
@@ -96,8 +86,7 @@
             "shortDescription": "Perform onchain/offchain swaps",
             "icon": "swap_horiz",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "offlineshop",
@@ -105,8 +94,7 @@
             "shortDescription": "Receive payments for products offline!",
             "icon": "nature_people",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "hivemind",
@@ -114,8 +102,7 @@
             "shortDescription": "Make cheap talk expensive!",
             "icon": "batch_prediction",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "livestream",
@@ -123,8 +110,7 @@
             "shortDescription": "Sell tracks and split revenue (lnurl-pay)",
             "icon": "speaker",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "discordbot",
@@ -132,8 +118,7 @@
             "shortDescription": "Generate users and wallets",
             "icon": "person_add",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "lnurlp",
@@ -141,8 +126,7 @@
             "shortDescription": "Make reusable LNURL pay links",
             "icon": "receipt",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "lnurldevice",
@@ -150,8 +134,7 @@
             "shortDescription": "For offline LNURL devices",
             "icon": "point_of_sale",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "jukebox",
@@ -159,8 +142,7 @@
             "shortDescription": "Spotify jukebox middleware",
             "icon": "radio",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "streamalerts",
@@ -168,8 +150,7 @@
             "shortDescription": "Bitcoin donations in stream alerts",
             "icon": "notifications_active",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "bleskomat",
@@ -177,8 +158,7 @@
             "shortDescription": "Connect a Bleskomat ATM to an lnbits",
             "icon": "money",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "usermanager",
@@ -186,8 +166,7 @@
             "shortDescription": "Generate users and wallets",
             "icon": "person_add",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "events",
@@ -195,8 +174,7 @@
             "shortDescription": "Sell and register event tickets",
             "icon": "local_activity",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "withdraw",
@@ -204,8 +182,7 @@
             "shortDescription": "Make LNURL withdraw links",
             "icon": "crop_free",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "splitpayments",
@@ -213,8 +190,7 @@
             "shortDescription": "Split incoming payments across wallets",
             "icon": "call_split",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "lnticket",
@@ -222,8 +198,7 @@
             "shortDescription": "LN support ticket system",
             "icon": "contact_support",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "paywall",
@@ -231,8 +206,7 @@
             "shortDescription": "Create paywalls for content",
             "icon": "policy",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "lnaddress",
@@ -240,8 +214,7 @@
             "shortDescription": "Sell LN addresses for your domain",
             "icon": "alternate_email",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         },
         {
             "id": "boltcards",
@@ -249,8 +222,7 @@
             "shortDescription": "Self custody Bolt Cards with one time LNURLw",
             "icon": "payment",
             "url": "",
-            "hash": "",
-            "html": ""
+            "hash": ""
         }
     ]
 }
