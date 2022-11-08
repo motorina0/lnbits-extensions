@@ -5,7 +5,7 @@
             "name": "WatchOnly Onchain wallet",
             "shortDescription": "Onchain watch only wallets",
             "icon": "extension",
-            "archive": "https://github.com/motorina0/watchonly/raw/d64956ec454afc4a860ec100a8b9b29c6b4f599f/releases/watchonly_0.3.zip",
+            "archive": "https://github.com/motorina0/watchonly/raw/ccc32e1d978f303b24328b89ac0b7caf7baad005/releases/watchonly_0.3.zip",
             "hash": ""
         },
         {
