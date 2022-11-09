@@ -1,19 +1,11 @@
 {
     "extensions": [
         {
-            "id": "watchonly",
-            "name": "WatchOnly Onchain wallet",
-            "shortDescription": "Onchain watch only wallets",
-            "icon": "extension",
-            "archive": "https://github.com/motorina0/watchonly/raw/ccc32e1d978f303b24328b89ac0b7caf7baad005/releases/watchonly_0.3.zip",
-            "hash": ""
-        },
-        {
             "id": "scrub",
             "name": "Scrub",
             "shortDescription": "Pass payments to LNURLp/LNaddress",
             "icon": "send",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/scrub.zip",
             "hash": ""
         },
         {
@@ -21,15 +13,7 @@
             "name": "Sats Dice",
             "shortDescription": "LNURL Satoshi dice",
             "icon": "casino",
-            "url": "",
-            "hash": ""
-        },
-        {
-            "id": "tpos",
-            "name": "TPoS",
-            "shortDescription": "A shareable PoS terminal!",
-            "icon": "dialpad",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/satsdice.zip",
             "hash": ""
         },
         {
@@ -37,7 +21,7 @@
             "name": "Invoices",
             "shortDescription": "Create invoices for your clients.",
             "icon": "request_quote",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/invoices.zip",
             "hash": ""
         },
         {
@@ -45,7 +29,7 @@
             "name": "Streamer Copilot",
             "shortDescription": "Video tips/animations/webhooks",
             "icon": "face",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/copilot.zip",
             "hash": ""
         },
         {
@@ -53,7 +37,7 @@
             "name": "SatsPay Server",
             "shortDescription": "Create onchain and LN charges",
             "icon": "payment",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/satspay.zip",
             "hash": ""
         },
         {
@@ -61,7 +45,7 @@
             "name": "LndHub",
             "shortDescription": "Access lnbits from BlueWallet or Zeus",
             "icon": "navigation",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/lndhub.zip",
             "hash": ""
         },
         {
@@ -69,7 +53,7 @@
             "name": "Subdomains",
             "shortDescription": "Sell subdomains of your domain",
             "icon": "domain",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/subdomains.zip",
             "hash": ""
         },
         {
@@ -77,7 +61,7 @@
             "name": "Tip Jar",
             "shortDescription": "Accept Bitcoin donations, with messages attached!",
             "icon": "favorite",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/tipjar.zip",
             "hash": ""
         },
         {
@@ -85,7 +69,7 @@
             "name": "Boltz",
             "shortDescription": "Perform onchain/offchain swaps",
             "icon": "swap_horiz",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/boltz.zip",
             "hash": ""
         },
         {
@@ -93,7 +77,7 @@
             "name": "OfflineShop",
             "shortDescription": "Receive payments for products offline!",
             "icon": "nature_people",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/offlineshop.zip",
             "hash": ""
         },
         {
@@ -101,7 +85,7 @@
             "name": "Hivemind",
             "shortDescription": "Make cheap talk expensive!",
             "icon": "batch_prediction",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/hivemind.zip",
             "hash": ""
         },
         {
@@ -109,7 +93,7 @@
             "name": "DJ Livestream",
             "shortDescription": "Sell tracks and split revenue (lnurl-pay)",
             "icon": "speaker",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/livestream.zip",
             "hash": ""
         },
         {
@@ -117,23 +101,7 @@
             "name": "Discord Bot",
             "shortDescription": "Generate users and wallets",
             "icon": "person_add",
-            "url": "",
-            "hash": ""
-        },
-        {
-            "id": "lnurlp",
-            "name": "LNURLp",
-            "shortDescription": "Make reusable LNURL pay links",
-            "icon": "receipt",
-            "url": "",
-            "hash": ""
-        },
-        {
-            "id": "lnurldevice",
-            "name": "LNURLDevice",
-            "shortDescription": "For offline LNURL devices",
-            "icon": "point_of_sale",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/discordbot.zip",
             "hash": ""
         },
         {
@@ -141,7 +109,7 @@
             "name": "Spotify Jukebox",
             "shortDescription": "Spotify jukebox middleware",
             "icon": "radio",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/jukebox.zip",
             "hash": ""
         },
         {
@@ -149,7 +117,7 @@
             "name": "Stream Alerts",
             "shortDescription": "Bitcoin donations in stream alerts",
             "icon": "notifications_active",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/streamalerts.zip",
             "hash": ""
         },
         {
@@ -157,15 +125,7 @@
             "name": "Bleskomat",
             "shortDescription": "Connect a Bleskomat ATM to an lnbits",
             "icon": "money",
-            "url": "",
-            "hash": ""
-        },
-        {
-            "id": "usermanager",
-            "name": "User Manager",
-            "shortDescription": "Generate users and wallets",
-            "icon": "person_add",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/bleskomat.zip",
             "hash": ""
         },
         {
@@ -173,15 +133,7 @@
             "name": "Events",
             "shortDescription": "Sell and register event tickets",
             "icon": "local_activity",
-            "url": "",
-            "hash": ""
-        },
-        {
-            "id": "withdraw",
-            "name": "LNURLw",
-            "shortDescription": "Make LNURL withdraw links",
-            "icon": "crop_free",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/events.zip",
             "hash": ""
         },
         {
@@ -189,7 +141,7 @@
             "name": "Split Payments",
             "shortDescription": "Split incoming payments across wallets",
             "icon": "call_split",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/splitpayments.zip",
             "hash": ""
         },
         {
@@ -197,7 +149,7 @@
             "name": "Support Tickets",
             "shortDescription": "LN support ticket system",
             "icon": "contact_support",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/lnticket.zip",
             "hash": ""
         },
         {
@@ -205,7 +157,7 @@
             "name": "Paywall",
             "shortDescription": "Create paywalls for content",
             "icon": "policy",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/paywall.zip",
             "hash": ""
         },
         {
@@ -213,15 +165,7 @@
             "name": "Lightning Address",
             "shortDescription": "Sell LN addresses for your domain",
             "icon": "alternate_email",
-            "url": "",
-            "hash": ""
-        },
-        {
-            "id": "boltcards",
-            "name": "Bolt Cards",
-            "shortDescription": "Self custody Bolt Cards with one time LNURLw",
-            "icon": "payment",
-            "url": "",
+            "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/lnaddress.zip",
             "hash": ""
         }
     ]
