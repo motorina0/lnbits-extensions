@@ -11,8 +11,10 @@
         {
             "id": "satsdice",
             "name": "Sats Dice",
+            "details": "Create staic LNURL powered satsdices <br> Gambling is dangerous, flip responsibly",
             "shortDescription": "LNURL Satoshi dice",
             "icon": "casino",
+            "base64Image": "",
             "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/extensions/satsdice.zip",
             "hash": ""
         },
