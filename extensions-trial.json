@@ -14,7 +14,7 @@
             "name": "Sats Pay",
             "shortDescription": "Upgrade to version 111111111",
             "icon": "payment",
-            "details": "All charge names should be <code>111111111</code>. API panel shouls show <h1>111111111</h1>",
+            "details": "All charge names should be <code>111111111</code>. API panel must show: <br> <h1>111111111</h1>",
             "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/new/satspay/1/satspay.zip",
             "hash": "9fa2377a4003ef9f94d25f1f2e22b1b017853c051692412580e999ecde105b13",
             "presentation": ""
@@ -24,7 +24,7 @@
             "name": "Sats Pay",
             "shortDescription": "Upgrade to version 222222222",
             "icon": "payment",
-            "details": "All charge names should be <code>222222222</code>. API panel shouls show <h1>222222222</h1>",
+            "details": "All charge names should be <code>222222222</code>. API panel must show: <br> <h1>222222222</h1>",
             "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/new/satspay/2/satspay.zip",
             "hash": "73f1beee468ef91ac890ee0f151b1b46e547e91b3f1c37bd07643dab7516b73d",
             "presentation": ""
@@ -34,7 +34,7 @@
             "name": "Sats Pay",
             "shortDescription": "Upgrade to version 333333333",
             "icon": "payment",
-            "details": "All charge names should be <code>333333333</code>. API panel shouls show <h1>333333333</h1>",
+            "details": "All charge names should be <code>333333333</code>. API panel must show: <br> <h1>333333333</h1>",
             "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/new/satspay/3/satspay.zip",
             "hash": "35d7ce30e3968b12606a6ce8f3ba7be906ff607cb62560b4ed14b9aae61c9abe",
             "presentation": ""
