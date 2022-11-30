@@ -3,6 +3,7 @@
         {
             "id": "scheduledpayments",
             "name": "Scheduled Payments",
+            "version": 0,
             "shortDescription": "Schedule recurring payments in the future.",
             "icon": "schedule",
             "archive": "https://github.com/motorina0/lnbits-extensions/raw/9c274add8759a198b75691e19c540c18e1967876/extensions/scheduledpayments.zip",
@@ -12,6 +13,7 @@
         {
             "id": "satspay",
             "name": "Sats Pay",
+            "version": 1,
             "shortDescription": "Upgrade to version 111111111",
             "icon": "payment",
             "details": "All charge names should be <code>111111111</code>. API panel must show: <br> <h1>111111111</h1>",
@@ -22,6 +24,7 @@
         {
             "id": "satspay",
             "name": "Sats Pay",
+            "version": 2,
             "shortDescription": "Upgrade to version 222222222",
             "icon": "payment",
             "details": "All charge names should be <code>222222222</code>. API panel must show: <br> <h1>222222222</h1>",
@@ -32,6 +35,7 @@
         {
             "id": "satspay",
             "name": "Sats Pay",
+            "version": 3,
             "shortDescription": "Upgrade to version 333333333",
             "icon": "payment",
             "details": "All charge names should be <code>333333333</code>.<br> New db table <code>satspay.themes333333333</code> added.<br>API panel must show: <br> <h1>333333333</h1>",
