@@ -12,7 +12,7 @@
         },
         {
             "id": "lnurlp",
-            "name": "lunurlp",
+            "name": "Pay Links",
             "version": 1,
             "shortDescription": "Upgrade to version 111111111",
             "icon": "receipt",
@@ -23,7 +23,7 @@
         },
         {
             "id": "lnurlp",
-            "name": "lunurlp",
+            "name": "Pay Links",
             "version": 2,
             "shortDescription": "Upgrade to version 22222",
             "icon": "receipt",
@@ -34,7 +34,7 @@
         },
         {
             "id": "lnurlp",
-            "name": "lunurlp",
+            "name": "Pay Links",
             "version": 3,
             "shortDescription": "Upgrade to version 33333",
             "icon": "receipt",
