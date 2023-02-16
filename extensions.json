@@ -30,5 +30,10 @@
             "archive": "https://github.com/motorina0/lnbits-extensions/raw/main/new/lnurlp/3/lnurlp.zip",
             "hash": "5ec4b5511379fc26082c133d1a6dfa56f5bfa8959e9a4e206d6b64d8ff6a9db6"
         }
-    ]
+    ],
+    "repos": [{
+        "id": "reviews",
+        "organisation": "motorina0",
+        "repository": "reviews-extension"
+    }]
 }
