@@ -346,6 +346,7 @@
             "repo": "https://github.com/lnbits/watchonly",
             "name": "Onchain Wallet",
             "version": "0.2.1",
+            "min_lnbits_version": "0.10.7",
             "short_description": "Onchain watch only wallets",
             "icon": "https://github.com/lnbits/watchonly/raw/main/static/bitcoin-wallet.png",
             "archive": "https://github.com/lnbits/watchonly/archive/refs/tags/v0.2.1.zip",
