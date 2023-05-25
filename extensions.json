@@ -9,7 +9,7 @@
     "extensions": [
         {
             "id": "copilot",
-            "repo": "https://github.com/lnbits/copilot",
+            "repo": "https://github.com/motorina0/copilot",
             "name": "Streamer Copilot",
             "version": "0.4",
             "short_description": "For streamers to accept sats and trigger gifs",
@@ -19,7 +19,7 @@
         },
         {
             "id": "gerty",
-            "repo": "https://github.com/lnbits/gerty",
+            "repo": "https://github.com/motorina0/gerty",
             "name": "Gerty",
             "version": "0.1.4",
             "short_description": "Your Bitcoin assistant",
@@ -29,7 +29,7 @@
         },
         {
             "id": "jukebox",
-            "repo": "https://github.com/lnbits/jukebox",
+            "repo": "https://github.com/motorina0/jukebox",
             "name": "Jukebox",
             "version": "0.2.1",
             "short_description": "Sats powered Spotify Jukebox",
@@ -39,7 +39,7 @@
         },
         {
             "id": "lnticket",
-            "repo": "https://github.com/lnbits/lnticket",
+            "repo": "https://github.com/motorina0/lnticket",
             "name": "Support Tickets",
             "version": "0.4",
             "short_description": "Get paid sats to answer questions",
@@ -49,7 +49,7 @@
         },
         {
             "id": "tpos",
-            "repo": "https://github.com/lnbits/tpos",
+            "repo": "https://github.com/motorina0/tpos",
             "name": "TPoS",
             "version": "0.4.1",
             "short_description": "Secure, mobile-ready, instant and shareable point of sale",
@@ -59,7 +59,7 @@
         },
         {
             "id": "usermanager",
-            "repo": "https://github.com/lnbits/usermanager",
+            "repo": "https://github.com/motorina0/usermanager",
             "name": "User Manager",
             "version": "0.3.1",
             "short_description": "Generate users and wallets",
@@ -69,7 +69,7 @@
         },
         {
             "id": "example",
-            "repo": "https://github.com/lnbits/example",
+            "repo": "https://github.com/motorina0/example",
             "name": "Build your own!",
             "version": "0.2",
             "short_description": "Guide for extension developers",
@@ -79,7 +79,7 @@
         },
         {
             "id": "events",
-            "repo": "https://github.com/lnbits/events",
+            "repo": "https://github.com/motorina0/events",
             "name": "Events",
             "version": "0.1",
             "short_description": "Sell and register event tickets",
@@ -89,7 +89,7 @@
         },
         {
             "id": "lnurldevice",
-            "repo": "https://github.com/lnbits/lnurldevice",
+            "repo": "https://github.com/motorina0/lnurldevice",
             "name": "LNURLDevices",
             "version": "0.4",
             "short_description": "Points of sale, ATMs, switches",
@@ -109,7 +109,7 @@
         },
         {
             "id": "discordbot",
-            "repo": "https://github.com/lnbits/discordbot",
+            "repo": "https://github.com/motorina0/discordbot",
             "name": "Discordbot",
             "version": "0.1",
             "short_description": "Let People send emails and earn sats",
@@ -119,7 +119,7 @@
         },
         {
             "id": "hivemind",
-            "repo": "https://github.com/lnbits/hivemind",
+            "repo": "https://github.com/motorina0/hivemind",
             "name": "Hivemind",
             "version": "0.1",
             "short_description": "Make cheap talk expensive!",
@@ -129,7 +129,7 @@
         },
         {
             "id": "boltcards",
-            "repo": "https://github.com/lnbits/boltcards",
+            "repo": "https://github.com/motorina0/boltcards",
             "name": "Boltcards",
             "version": "0.0.0.1",
             "short_description": "Manage your Bolt Cards self custodian way",
@@ -139,7 +139,7 @@
         },
         {
             "id": "nostrnip5",
-            "repo": "https://github.com/lnbits/nostrnip5",
+            "repo": "https://github.com/motorina0/nostrnip5",
             "name": "NostrNip5",
             "version": "0.0.0.2",
             "short_description": "Create NIP05 address for your domains",
@@ -149,7 +149,7 @@
         },
         {
             "id": "splitpayments",
-            "repo": "https://github.com/lnbits/splitpayments",
+            "repo": "https://github.com/motorina0/splitpayments",
             "name": "Splitpayments",
             "version": "0.1.0",
             "short_description": "Split incoming payments across wallets",
@@ -159,7 +159,7 @@
         },
         {
             "id": "boltz",
-            "repo": "https://github.com/lnbits/boltz-extension",
+            "repo": "https://github.com/motorina0/boltz-extension",
             "name": "Boltz",
             "version": "0.2.1",
             "short_description": "Perform onchain/offchain swaps",
@@ -169,7 +169,7 @@
         },
         {
             "id": "satsdice",
-            "repo": "https://github.com/lnbits/satsdice",
+            "repo": "https://github.com/motorina0/satsdice",
             "name": "Satsdice",
             "version": "0.0.0.1",
             "short_description": "Make your own Satoshi-dice games",
@@ -179,7 +179,7 @@
         },
         {
             "id": "offlineshop",
-            "repo": "https://github.com/lnbits/offlineshop",
+            "repo": "https://github.com/motorina0/offlineshop",
             "name": "Offlineshop",
             "version": "0.1",
             "short_description": "Receive payments for products offline!",
@@ -189,7 +189,7 @@
         },
         {
             "id": "subdomains",
-            "repo": "https://github.com/lnbits/subdomains",
+            "repo": "https://github.com/motorina0/subdomains",
             "name": "Subdomains",
             "version": "0.1",
             "short_description": "Sell subdomains of your domain",
@@ -199,7 +199,7 @@
         },
         {
             "id": "streamalerts",
-            "repo": "https://github.com/lnbits/streamalerts",
+            "repo": "https://github.com/motorina0/streamalerts",
             "name": "Streamalerts",
             "version": "0.2",
             "short_description": "Bitcoin donations in stream alerts",
@@ -209,7 +209,7 @@
         },
         {
             "id": "livestream",
-            "repo": "https://github.com/lnbits/livestream",
+            "repo": "https://github.com/motorina0/livestream",
             "name": "Livestream",
             "version": "0.1",
             "short_description": "Sell tracks and split revenue (lnurl-pay)",
@@ -219,7 +219,7 @@
         },
         {
             "id": "lnurlp",
-            "repo": "https://github.com/lnbits/lnurlp",
+            "repo": "https://github.com/motorina0/lnurlp",
             "name": "LNURLp",
             "version": "0.2.1",
             "short_description": "Create static payment links",
@@ -229,7 +229,7 @@
         },
         {
             "id": "cashu",
-            "repo": "https://github.com/lnbits/cashu",
+            "repo": "https://github.com/motorina0/cashu",
             "name": "Cashu",
             "version": "0.1.8",
             "short_description": "Ecash mint and wallet",
@@ -239,7 +239,7 @@
         },
         {
             "id": "deezy",
-            "repo": "https://github.com/lnbits/deezy",
+            "repo": "https://github.com/motorina0/deezy",
             "name": "Deezy",
             "version": "0.1",
             "short_description": "Swap between LN and Onchain",
@@ -249,7 +249,7 @@
         },
         {
             "id": "invoices",
-            "repo": "https://github.com/lnbits/invoices",
+            "repo": "https://github.com/motorina0/invoices",
             "name": "Invoices",
             "version": "0.2.0",
             "short_description": "Create invoices for your clients",
@@ -259,7 +259,7 @@
         },
         {
             "id": "withdraw",
-            "repo": "https://github.com/lnbits/withdraw",
+            "repo": "https://github.com/motorina0/withdraw",
             "name": "LNURLw",
             "version": "0.1",
             "short_description": "Make LNURL withdraw links",
@@ -269,7 +269,7 @@
         },
         {
             "id": "paywall",
-            "repo": "https://github.com/lnbits/paywall",
+            "repo": "https://github.com/motorina0/paywall",
             "name": "Paywall",
             "version": "0.2",
             "short_description": "Create paywalls for content",
@@ -279,7 +279,7 @@
         },
         {
             "id": "market",
-            "repo": "https://github.com/lnbits/market",
+            "repo": "https://github.com/motorina0/market",
             "name": "Marketplace",
             "version": "0.2",
             "short_description": "Webshop/market on LNbits",
@@ -289,7 +289,7 @@
         },
         {
             "id": "satspay",
-            "repo": "https://github.com/lnbits/satspay",
+            "repo": "https://github.com/motorina0/satspay",
             "name": "SatsPay Server",
             "version": "0.2",
             "short_description": "Create onchain and LN charges",
@@ -299,7 +299,7 @@
         },
         {
             "id": "bleskomat",
-            "repo": "https://github.com/lnbits/bleskomat",
+            "repo": "https://github.com/motorina0/bleskomat",
             "name": "Bleskomat",
             "version": "0.1",
             "short_description": "Connect a Bleskomat ATM to an lnbits",
@@ -309,7 +309,7 @@
         },
         {
             "id": "tipjar",
-            "repo": "https://github.com/lnbits/tipjar",
+            "repo": "https://github.com/motorina0/tipjar",
             "name": "Tip Jar",
             "version": "0.2",
             "short_description": "Accept Bitcoin donations, with messages attached!",
@@ -319,7 +319,7 @@
         },
         {
             "id": "lndhub",
-            "repo": "https://github.com/lnbits/lndhub",
+            "repo": "https://github.com/motorina0/lndhub",
             "name": "LndHub",
             "version": "0.3",
             "short_description": "Access lnbits from BlueWallet or Zeus",
@@ -329,7 +329,7 @@
         },
         {
             "id": "scrub",
-            "repo": "https://github.com/lnbits/scrub",
+            "repo": "https://github.com/motorina0/scrub",
             "name": "SCRUB",
             "version": "0.3",
             "short_description": "Pass payments to LNURLp/LNaddress",
@@ -339,7 +339,7 @@
         },
         {
             "id": "lnaddress",
-            "repo": "https://github.com/lnbits/lnaddress",
+            "repo": "https://github.com/motorina0/lnaddress",
             "name": "Lightning Address",
             "version": "0.2",
             "short_description": "Sell LN addresses for your domain",
@@ -349,7 +349,7 @@
         },
         {
             "id": "watchonly",
-            "repo": "https://github.com/lnbits/watchonly",
+            "repo": "https://github.com/motorina0/watchonly",
             "name": "Onchain Wallet",
             "version": "0.2.1",
             "min_lnbits_version": "0.10.7",
@@ -360,7 +360,7 @@
         },
         {
             "id": "nostrclient",
-            "repo": "https://github.com/lnbits/nostrclient",
+            "repo": "https://github.com/motorina0/nostrclient",
             "name": "Nostr Client",
             "version": "v0.1.4",
             "short_description": "Nostr event multiplexer",
@@ -370,7 +370,7 @@
         },
         {
             "id": "nostrrelay",
-            "repo": "https://github.com/lnbits/nostr-relay-extension",
+            "repo": "https://github.com/motorina0/nostr-relay-extension",
             "name": "Nostr Relay",
             "version": "v0.24",
             "short_description": "Create and manage multiple nostr relays",
@@ -381,7 +381,7 @@
         },
         {
             "id": "nostrmarket",
-            "repo": "https://github.com/lnbits/nostrmarket",
+            "repo": "https://github.com/motorina0/nostrmarket",
             "name": "Nostr Market",
             "version": "0.2.8",
             "short_description": "Nostr merchant and market",
